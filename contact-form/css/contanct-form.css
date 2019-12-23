@@ -1,0 +1,18 @@
+body {
+    font-family: 'Merriweather Sans', sans-serif;
+    color:#151515;
+}
+
+.contact-form, .form-control {
+    border-radius:0px!important;
+    border-top:0;
+    border-left:0;
+    border-right:0;
+}
+.contact-form, textarea {
+    border-radius: 0px!important;
+}
+.contact-form, .form-control:focus {
+    box-shadow: none!important;
+   border-bottom-color: #ececec;
+}
